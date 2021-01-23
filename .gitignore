@@ -6,3 +6,6 @@ build/
 nbproject/private/private.xml
 .DS_Store
 /nbproject/private/
+out/
+.idea
+*.iml
